@@ -31,7 +31,7 @@ Passionate about building scalable applications, ERP solutions, and modern web s
 
 ## 📫 Reach Me  
 - **Email:** phpnajmul@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/phpnajmul  
+- **LinkedIn:** https://linkedin.com/in/najmulbd  
 - **Portfolio:** *(Coming Soon)*  
 
 ---

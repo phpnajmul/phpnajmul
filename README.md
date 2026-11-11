@@ -1,83 +1,216 @@
-<!-- Banner -->
+<!-- ===================================================== -->
+<!--                    PROFILE BANNER                    -->
+<!-- ===================================================== -->
+
 <p align="center">
-    <img
-        src="skills.svg"
-        width="100%"
-        alt="Md. Najmul Hossain - Developer Banner"
-    />
+  <img
+    src="skills.svg"
+    width="100%"
+    alt="Md. Najmul Hossain - Developer Banner"
+  />
 </p>
+
+<!-- ===================================================== -->
+<!--                       INTRO                           -->
+<!-- ===================================================== -->
+
 <h1 align="center">Hi 👋, I'm Md. Najmul Hossain</h1>
-<h3 align="center">Full-Stack Developer | Laravel · Next.js · NestJS · PostgreSQL</h3>
+
+<h3 align="center">
+  Full-Stack Developer | Laravel · Next.js · NestJS · PostgreSQL
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+Next.js+%7C+NestJS;ERP+%2F+POS+%2F+SaaS+Builder;Clean+Code+%26+High+Performance+Apps" />
+  <a href="https://github.com/phpnajmul">
+    <img src="https://img.shields.io/github/followers/phpnajmul?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/phpnajmul?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
+  <a href="https://linkedin.com/in/najmulbd">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Laravel+%7C+Next.js+%7C+NestJS;ERP+%2F+POS+%2F+SaaS+Builder;Building+Scalable+Business+Applications"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-## 👀 About Me  
-- 🔭 I build **ERP, POS, Accounting Systems & Business Applications**  
-- 🌱 Currently learning **Next.js, Prisma, Microservices, PostgreSQL**  
-- 💬 Ask me about **Laravel, API Design, Clean Code, Architecture**  
-- ⚡ Passionate about building scalable & production-ready systems  
-- 🧪 Comfortable with **TDD, BDD & PHPUnit**
+<!-- ===================================================== -->
+<!--                      ABOUT ME                         -->
+<!-- ===================================================== -->
+
+## 👨‍💻 About Me
+
+I'm a Software Developer passionate about designing and developing scalable, efficient, and maintainable software solutions.
+
+My primary focus is building business-oriented applications, including ERP, POS, Inventory Management, Accounting Systems, and SaaS platforms.
+
+- 🔭 Building **ERP, POS & Business Management Applications**
+- 💻 Working primarily with **PHP, Laravel & JavaScript**
+- 🌱 Exploring **Next.js, NestJS, Prisma & PostgreSQL**
+- 🏗️ Interested in **Software Architecture, API Design & Microservices**
+- 🧪 Practicing **TDD, BDD & PHPUnit**
+- ⚡ Focused on clean code, maintainability and performance.
 
 ---
 
-## 🚀 Tech Stack & Tools
+<!-- ===================================================== -->
+<!--                    TECH STACK                         -->
+<!-- ===================================================== -->
 
-### **Frontend**
-![HTML](https://img.shields.io/badge/HTML-000?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-000?logo=css3&logoColor=1572B6)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
-![React](https://img.shields.io/badge/React-000?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
+## 🛠️ Tech Stack & Tools
 
-### **Backend**
-![PHP](https://img.shields.io/badge/PHP-000?logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-000?logo=laravel)
-![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs)
-![NestJS](https://img.shields.io/badge/NestJS-000?logo=nestjs)
+### Frontend Development
 
-### **Database**
-![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-000?logo=prisma)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" alt="Frontend Technologies" />
+</p>
 
-### **Others**
-![Git](https://img.shields.io/badge/Git-000?logo=git)
-![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
-![Swagger](https://img.shields.io/badge/Swagger-000?logo=swagger)
-![Postman](https://img.shields.io/badge/Postman-000?logo=postman)
+### Backend Development
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs" alt="Backend Technologies" />
+</p>
 
-## 📈 GitHub Stats
-<div align="center">
+### Database & ORM
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phpnajmul&show_icons=true&theme=tokyonight&hide_border=true)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma" alt="Database Technologies" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phpnajmul&layout=compact&theme=tokyonight&hide_border=true)
+### Development Tools
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phpnajmul&theme=tokyonight&hide_border=true)
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,swagger,vscode" alt="Development Tools" />
+</p>
 
 ---
 
-## 🤝 Collaboration
-I’m open to collaborate on:  
-- ERP / POS / Inventory systems  
-- Laravel + Next.js SaaS projects  
-- Startup ideas & business tools  
+<!-- ===================================================== -->
+<!--                   WHAT I BUILD                        -->
+<!-- ===================================================== -->
+
+## 🚀 What I Build
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏢 Enterprise Applications</h3>
+      ERP, Business Management and Enterprise Automation Systems.
+    </td>
+    <td width="50%">
+      <h3>🛒 POS Solutions</h3>
+      Point of Sale, Sales Management and Retail Applications.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📦 Inventory Management</h3>
+      Purchase, Stock, Warehouse and Product Management Systems.
+    </td>
+    <td width="50%">
+      <h3>💰 Accounting Systems</h3>
+      Financial Management, Ledgers and Business Accounting.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔌 Backend & APIs</h3>
+      RESTful APIs, Database Design and Business Logic.
+    </td>
+    <td width="50%">
+      <h3>☁️ SaaS Applications</h3>
+      Scalable Web Applications and Business Automation.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📫 Contact  
-- **Email:** phpnajmul@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/najmulbd  
+<!-- ===================================================== -->
+<!--                  GITHUB ANALYTICS                     -->
+<!-- ===================================================== -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=phpnajmul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=phpnajmul&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Programming Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="65%"
+    src="https://streak-stats.demolab.com?user=phpnajmul&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
 ---
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+<!-- ===================================================== -->
+<!--                   COLLABORATION                       -->
+<!-- ===================================================== -->
+
+## 🤝 Let's Collaborate
+
+I'm open to collaborating on projects involving:
+
+- ERP, POS & Inventory Management Systems
+- Laravel & Next.js Applications
+- RESTful API Development
+- SaaS Platforms & Business Automation
+- Open-source Projects
+- Startup Ideas & Business Tools
+
+---
+
+<!-- ===================================================== -->
+<!--                       CONTACT                         -->
+<!-- ===================================================== -->
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:phpnajmul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/najmulbd">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/phpnajmul">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+- 📧 **Email:** phpnajmul@gmail.com
+- 💼 **LinkedIn:** [najmulbd](https://linkedin.com/in/najmulbd)
+- 💻 **GitHub:** [phpnajmul](https://github.com/phpnajmul)
+
+---
+
+<!-- ===================================================== -->
+<!--                       FOOTER                          -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <b>Building Solutions. Empowering Businesses. 🚀</b>
+</p>
+
+<p align="center">
+  ⭐ If you find my work useful, consider starring my repositories!
+</p>

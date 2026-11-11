@@ -1,6 +1,11 @@
 <!-- Banner -->
-![GitHub Banner](https://i.ibb.co/1rcF7tS/dev-banner.png)
-
+<p align="center">
+    <img
+        src="skills.svg"
+        width="100%"
+        alt="Md. Najmul Hossain - Developer Banner"
+    />
+</p>
 <h1 align="center">Hi 👋, I'm Md. Najmul Hossain</h1>
 <h3 align="center">Full-Stack Developer | Laravel · Next.js · NestJS · PostgreSQL</h3>
 
